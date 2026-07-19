@@ -1,0 +1,6 @@
+{
+  "name": "Soutien Scolaire",
+  "description": "Plateforme de gestion pour le centre de cours particuliers présentiels de Elhadji Touré",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
